@@ -1,4 +1,4 @@
-module github.com/faiface/beep
+module github.com/folkengine/beep
 
 require (
 	github.com/gdamore/tcell v1.1.1
